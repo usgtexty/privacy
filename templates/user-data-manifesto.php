@@ -21,5 +21,5 @@
 			<p><?php p($l->t('Users should always be able to extract their data from the service at any time without experiencing any vendor lock-in. Open standards for formats and protocols are necessary to guarantee this.')); ?></p>
 		</div>
 	</div>
-	<a target="_blank" rel="noreferrer noopener" href="https://nextcloud.com/yourdata"><?php p($l->t('Learn more ↗')); ?></a>
+	<a target="_blank" rel="noreferrer noopener" href="https://bitnext.app/support"><?php p($l->t('Learn more ↗')); ?></a>
 </div>
